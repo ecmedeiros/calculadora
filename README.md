@@ -1,19 +1,26 @@
-# calculadora
- Calculadora simples feita para treinar Factory Functions
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
+<br/>
+<p align="center">
+  <a href="https://github.com/ecmedeiros/calculadora">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Calculadora</h3>
+
+  <p align="center">
+    Calculadora simples feita para treinar Factory Functions e Constructor Functions
+    <br/>
+    <br/>
+  </p>
+</p>
+
+
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Javascript][Javascript.com]][Javascript-url]
+![Screen Shot](images/screenshot.png)
 
 
+## Built With
 
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
+* [Javascript](https://www.javascript.com/)
+
