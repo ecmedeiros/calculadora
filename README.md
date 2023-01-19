@@ -15,12 +15,8 @@
 
 
 
-## About The Project
+## Sobre o projeto
 
 ![Screen Shot](images/screenshot.png)
 
-
-## Built With
-
-* [Javascript](https://www.javascript.com/)
 
