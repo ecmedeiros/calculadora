@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+:root {
+  --primary-color: rgb(55, 52, 61);
+  --border-color: rgb(248, 229, 238)
+}
+
+* {
+  box-sizing: border-box;
+  outline: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--primary-color);
+  font-family: 'Open sans', sans-serif;
+  font-size: 1.3em;
+  line-height: 1.5em;
+}
+
+h1 {
+  color: #fff;
+}
+
+.container {
+  max-width: 640px;
+  margin: 50px auto;
+  background: var(--primary-color);
+  /* background:rgb(187, 35, 32); */
+  padding: 20px;
+  border-radius: 5px;
+  border: 1px solid var(--border-color);
+}
+
+.display {
+  font-size: 2em;
+  width: 100%;
+  text-align: right;
+  border: 1px solid var(--border-color);
+  background-color: var(--primary-color);
+  color: #fff;
+  border-radius: 5px;
+}
+
+.btn {
+  width: 100%;
+  font-size: 1em;
+  border: none;
+  border-radius: 5px;
+  height: 50px;
+  background-color: rgb(248, 229, 238);
+  cursor: pointer;
+}
+
+.btn-char {
+  background-color: #cecdcd;
+}
+
+.btn-eq {
+  background-color: rgb(129, 205, 228);
+}
+
+.btn-eq:hover {
+  background-color: rgb(94, 174, 199);
+}
+
+.btn-char:hover,
+.btn-num:hover { 
+  background-color: #adadad;
+}
